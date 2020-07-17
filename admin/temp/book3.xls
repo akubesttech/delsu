@@ -1,0 +1,29 @@
+
+ 
+
+
+
+
+    
+    			<table border='1'>
+    				<thead>
+    					<tr>
+    						<th>Registration number</th>
+    						<th>Course Code</th>
+    						<th>Credit Unit</th>
+    						<th>Continous Assessment 40 %</th>
+    						<th>Exam Score 60 %</th>
+    					</tr>
+    				<tbody>
+    		
+    					<tr>
+    						<td>2018/2/001</td>
+    						<td>CHM 101</td>
+    						<td>3</td>
+    						<td>0</td>
+    						<td>0</td>
+    					</tr>
+    			</tbody>
+     
+    			</table>
+    		
