@@ -1,9 +1,9 @@
 <?php
 define('DB_DRIVER', 'mysql');
 define('SERVER', 'localhost');
-define('USERNAME', 'smartdel_abrakasmart_rol');
+define('USERNAME', 'deltasma_abrakasmart_rol');
 define('PASSWORD', 'abraasmart_2019u#');
-define('DATABASE', 'smartdel_abrakasmartdb');
+define('DATABASE', 'deltasma_abrakasmartdb');
 define('t_gate', 'sk_test_5a19822c308f7d12f9f64f19cecac63796ec6816');
 class Database
 {
