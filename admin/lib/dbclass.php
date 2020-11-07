@@ -5,6 +5,9 @@ define('USERNAME', 'deltasma_abrakasmart_rol');
 define('PASSWORD', 'abraasmart_2019u#');
 define('DATABASE', 'deltasma_abrakasmartdb');
 define('t_gate', 'sk_test_5a19822c308f7d12f9f64f19cecac63796ec6816');
+//other creaditials 
+define('t_ACCTS', ''); //for school
+define('t_ACCTB', ''); // for Bisapp
 class Database
 {
 
